@@ -136,7 +136,7 @@ summary(cars)
    2. Then the files are arranged in ascending (using subset function) and descending order, as well as missing genotypes are changed to ?mark 
     
 ```{r cars}
-install(gtools)
+install.packages(gtools)
 library(gtools) #install gtools
 
 for (chr in 1:10) {
