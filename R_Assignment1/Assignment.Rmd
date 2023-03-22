@@ -34,7 +34,7 @@ summary(cars)
  2. Then head, tail, dimension and structure are inspected.
  3. View funtion is used to see the data frame.
  
-###(Review: only data frames are shown in results, but not the structure and dimension.)
+
 ```{r cars}
 is.data.frame(fang_et_al)
 is.vector(fang_et_al)
